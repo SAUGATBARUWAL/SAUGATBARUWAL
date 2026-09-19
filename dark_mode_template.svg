@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+.name {
+    font-weight: bolder;
+    
+}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<image
+    x="15"
+    y="20"
+    width="340"
+    height="490"
+    href="outputlol.svg"
+    preserveAspectRatio="xMidYMid meet"
+/>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="50" class="name" >SAUGATBARUWAL</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Windows 11,Ubuntu</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">__AGE__</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Github Stats</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">__REPOSITORIES__ repositories</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Software Development &amp; AI/ML</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">VSCode 1.136.1</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JavaScript, C++</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, REACT ,POSTGRES</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">English,Nepali,Hindi</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Web Development, AI &amp; ML</tspan>
+
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">General</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Chess, Music , Movies</tspan>
+
+<tspan x="390" y="310" class="cc">. </tspan>
+
+<tspan x="390" y="330">- Contact -——————————————————————————————————————————————-—-</tspan>
+
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">saugatbaruwal789@gmail.com</tspan>
+
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Saugat Baruwal</tspan>
+
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">baruwalsaugat</tspan>
+
+<tspan x="390" y="410" class="cc">. </tspan>
+<tspan x="390" y="430">- Socials -——————————————————————————————————————————————-—-</tspan>
+</text>
+ <!-- INSTAGRAM -->
+<a href="https://www.instagram.com/baruwalsaugat/" target="_blank">
+    <image
+        x="390"
+        y="455"
+        width="30"
+        height="30"
+        href="instagram.svg"
+    />
+    <text x="350" y="477">
+        <tspan class="value">Instagram</tspan>
+    </text>
+</a>
+
+
+<!-- FACEBOOK -->
+<a href="https://www.facebook.com/saugat.baruwal.14" target="_blank">
+    <image
+        x="570"
+        y="455"
+        width="30"
+        height="30"
+        href="facebook.svg"
+    />
+    <text x="510" y="477" dx="30">
+        <tspan class="value">Facebook</tspan>
+    </text>
+</a>
+
+
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/saugat-baruwal-a99447407/" target="_blank">
+    <image
+        x="740"
+        y="455"
+        width="30"
+        height="30"
+        href="linkedin.svg"
+    />
+    <text x="700" y="477">
+        <tspan class="value">LinkedIn</tspan>
+    </text>
+</a>
+</svg>
