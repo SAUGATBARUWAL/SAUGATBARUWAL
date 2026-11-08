@@ -1,27 +1,17 @@
-
-
-
 <p align="right">
   <img src="./dark_mode.svg" alt="Dark Mode">
 </p>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="left">
-        <img src="koi/koi.gif" width="256" alt="My Git Koi">
-      </td>
-      <td align="right">
-        <a href="https://www.instagram.com/baruwalsaugat/">
-          <img src="./instagram.svg" width="30" height="30">
-        </a>
-        <a href="https://www.facebook.com/baruwalsaugat.14">
-          <img src="./facebook.svg" width="30" height="30">
-        </a>
-        <a href="https://www.linkedin.com/in/saugat-baruwal-a99447407/">
-          <img src="./linkedin.svg" width="30" height="30">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi" align="left">
+
+  <a href="https://www.instagram.com/baruwalsaugat/">
+    <img src="./instagram.svg" width="30" height="30">
+  </a>
+  <a href="https://www.facebook.com/saugat.baruwal.14">
+    <img src="./facebook.svg" width="30" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/saugat-baruwal-a99447407/">
+    <img src="./linkedin.svg" width="30" height="30">
+  </a>
+</p>
