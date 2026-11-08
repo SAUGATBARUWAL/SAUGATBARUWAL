@@ -1,9 +1,8 @@
 
 <p align="left">
   <img src="koi/koi.gif" width="256" alt="My Git Koi">
-   <img src="https://placehold.co/256x1/888888/888888.png" width="256">
 </p>
-
+<hr>
 <p align="right">
   <img src="./dark_mode.svg" alt="Dark Mode">
 </p>
