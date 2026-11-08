@@ -2,9 +2,7 @@
   <img src="./dark_mode.svg" alt="Dark Mode">
 </p>
 
-<p align="left">
-  <img src="koi/koi.gif" width="256" alt="My Git Koi" align="left">
-
+<p align="right">
   <a href="https://www.instagram.com/baruwalsaugat/">
     <img src="./instagram.svg" width="30" height="30">
   </a>
@@ -14,4 +12,7 @@
   <a href="https://www.linkedin.com/in/saugat-baruwal-a99447407/">
     <img src="./linkedin.svg" width="30" height="30">
   </a>
+</p>
+<p align="left">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi">
 </p>
