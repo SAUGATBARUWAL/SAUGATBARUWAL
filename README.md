@@ -14,3 +14,6 @@
     <img src="./linkedin.svg" width="30" height="30">
   </a>
 </p>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi">
+</p>
