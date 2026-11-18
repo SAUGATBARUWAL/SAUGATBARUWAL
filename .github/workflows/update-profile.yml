@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Get your repository files
+      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -31,11 +31,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # 4. Run your Python script
-      - name: Update profile SVG
-        run: python update_profile.py
+      # 4. Verify required files
+      - name: Check required files
+        run: |
+          test -f generate_profile.py
+          test -f dark_mode_template.svg
 
-      # 5. Commit and push updated SVG
+      # 5. Generate updated SVG
+      - name: Generate profile SVG
+        run: python generate_profile.py
+
+      # 6. Verify generated SVG
+      - name: Verify generated SVG
+        run: |
+          test -f dark_mode.svg
+          if grep -q "__AGE__\|__REPOSITORIES__" dark_mode.svg; then
+            echo "Error: SVG still contains placeholders."
+            exit 1
+          fi
+
+      # 7. Commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
