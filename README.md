@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="koi/koi.gif" width="256" alt="My Git Koi">
 </p>
 <hr>
